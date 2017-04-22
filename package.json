@@ -1,0 +1,8 @@
+{
+  "name": "ChokChok",
+  "version": "1.0.0",
+  "description": "Chok Chok Mobile App",
+  "main": "index.js",
+  "author": "Tom Wang <megatokyo@gmail.com>",
+  "license": "MIT"
+}
