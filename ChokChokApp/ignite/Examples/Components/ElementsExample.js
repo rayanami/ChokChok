@@ -11,7 +11,7 @@ import {
 ExamplesRegistry.addPluginExample('Elements', () =>
   <View>
     <Button
-      title="RN Elements Button"
+      title="Tom RN Elements Button"
     />
   </View>
 )
